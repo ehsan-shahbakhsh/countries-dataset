@@ -1,0 +1,1772 @@
+[
+  {
+    "name": "آذربایجان",
+    "flag": "\uD83C\uDDE6\uD83C\uDDFF",
+    "introduction": "جمهوری آذربایجان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "جمهوری آذربایجان شامل ۱ منطقهٔ خودمختار، جمهوری خودمختار نخجوان است."
+  },
+  {
+    "name": "آرژانتین",
+    "flag": "\uD83C\uDDE6\uD83C\uDDF7",
+    "introduction": "جمهوری فدرال آرژانتین",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "آرژانتین یک فدراسیون از ایالت\u200Cها است."
+  },
+  {
+    "name": "آفریقای جنوبی",
+    "flag": "\uD83C\uDDFF\uD83C\uDDE6",
+    "introduction": "جمهوری آفریقای جنوبی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "آفریقای مرکزی",
+    "flag": "\uD83C\uDDE8\uD83C\uDDEB",
+    "introduction": "جمهوری آفریقای مرکزی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "آلبانی",
+    "flag": "\uD83C\uDDE6\uD83C\uDDF1",
+    "introduction": "جمهوری آلبانی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "آلمان",
+    "flag": "\uD83C\uDDE9\uD83C\uDDEA",
+    "introduction": "جمهوری فدرال آلمان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا.[ت ۵] آلمان یک فدراسیون از ایالت\u200Cها است."
+  },
+  {
+    "name": "آنتیگوآ و باربودا",
+    "flag": "\uD83C\uDDE6\uD83C\uDDEC",
+    "introduction": null,
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "آنتیگوا و باربودا یک قلمروی همسود است همراه با منطقهٔ خودمختار باربودا."
+  },
+  {
+    "name": "آندورا",
+    "flag": "\uD83C\uDDE6\uD83C\uDDE9",
+    "introduction": "شاهزاده\u200Cنشین آندورا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "آندورا یک پادشاهی مشترک است که رئیس\u200Cجمهور فرانسه و اسقف کلیسای کاتولیک رئیس دولتش را انتخاب می\u200Cکنند."
+  },
+  {
+    "name": "آنگولا",
+    "flag": "\uD83C\uDDE6\uD83C\uDDF4",
+    "introduction": "جمهوری آنگولا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "اتریش",
+    "flag": "\uD83C\uDDE6\uD83C\uDDF9",
+    "introduction": "جمهوری فدرال اتریش",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا. (اتریش یک فدراسیون از ایالت\u200Cهای اتریش است)."
+  },
+  {
+    "name": "اتیوپی",
+    "flag": "\uD83C\uDDEA\uD83C\uDDF9",
+    "introduction": "جمهوری فدرال دموکراتیک اتیوپی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "اتیوپی یک فدراسیون از ۹ منطقه و دو شهر است."
+  },
+  {
+    "name": "اردن",
+    "flag": "\uD83C\uDDEF\uD83C\uDDF4",
+    "introduction": "پادشاهی اردن هاشمی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "ارمنستان",
+    "flag": "\uD83C\uDDE6\uD83C\uDDF2",
+    "introduction": "جمهوری ارمنستان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "توسط پاکستان به\u200Cرسمیت شناخته نمی\u200Cشود",
+    "description": null
+  },
+  {
+    "name": "اروگوئه",
+    "flag": "\uD83C\uDDFA\uD83C\uDDFE",
+    "introduction": "جمهوری اروگوئه",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "اریتره",
+    "flag": "\uD83C\uDDEA\uD83C\uDDF7",
+    "introduction": "جمهوری اریتره",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "ازبکستان",
+    "flag": "\uD83C\uDDFA\uD83C\uDDFF",
+    "introduction": "جمهوری ازبکستان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "ازبکستان شامل ۱ منطقهٔ خودمختار، قره\u200Cقالپاقستان."
+  },
+  {
+    "name": "اسپانیا",
+    "flag": "\uD83C\uDDEA\uD83C\uDDF8",
+    "introduction": "پادشاهی اسپانیا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا. اسپانیا به بخش\u200Cهای خودمختار تقسیم شده\u200Cاست."
+  },
+  {
+    "name": "استرالیا",
+    "flag": "\uD83C\uDDE6\uD83C\uDDFA",
+    "introduction": "قلمرو همسود استرالیا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": {
+      "استرالیا یک قلمروی همسود و یک فدراسیون از ایالت\u200Cها و ناحیه\u200Cها است. قلمروهای خارجی استرالیا عبارتند از:": [
+        "جزیره\u200Cهای آشمور و کارتیر",
+        "قلمرو جنوبگان استرالیا",
+        "جزیره کریسمس",
+        "جزایر کوکوس",
+        "جزایر کورال",
+        "جزیره هرد و جزایر مک\u200Cدونالد",
+        "جزیره نورفولک"
+      ]
+    }
+  },
+  {
+    "name": "استونی",
+    "flag": "\uD83C\uDDEA\uD83C\uDDEA",
+    "introduction": "جمهوری استونی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا."
+  },
+  {
+    "name": "اسرائیل",
+    "flag": "\uD83C\uDDEA\uD83C\uDDEA",
+    "introduction": "دولت اسرائیل",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "توسط ۲۸ کشور به رسمیت شناخته نمی\u200Cشود",
+    "description": "اسراییل کنترل شدیدی بر سرزمین ادعاشده توسط فلسطین دارد. اسرائیل اورشلیم شرقی را ضمیمهٔ خود کرده، الحاقی که توسط جامعهٔ بین\u200Cالمللی به رسمیت شناخته نشده\u200Cاست.\nاسرائیل سطوح مختلفی از کنترل کرانه باختری رود اردن را در اختیار دارد و اگرچه اسرائیل دیگر حضور غیرنظامی یا نظامی دائمی در نوار غزه ندارد، اما پس از جدایی یکجانبهٔ خود، همچنان به عنوان قدرت اشغالگر بر اساس قوانین بین\u200Cالمللی تلقی می\u200Cشود. اسرائیل توسط ۲۸ کشور عضو سازمان ملل و جمهوری دموکراتیک عربی صحرا به رسمیت شناخته نشده\u200Cاست."
+  },
+  {
+    "name": "اسلواکی",
+    "flag": "\uD83C\uDDF8\uD83C\uDDF0",
+    "introduction": "جمهوری اسلواکی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا."
+  },
+  {
+    "name": "اسلوونی",
+    "flag": "\uD83C\uDDF8\uD83C\uDDEE",
+    "introduction": "جمهوری اسلوونی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا."
+  },
+  {
+    "name": "اسواتینی",
+    "flag": "\uD83C\uDDF8\uD83C\uDDFF",
+    "introduction": "پادشاهی اسواتینی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "افغانستان",
+    "flag": "\uD83C\uDDE6\uD83C\uDDEB",
+    "introduction": "جمهوری اسلامی افغانستان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "به صورت دو فاکتو توسط امارت اسلامی افغانستان کنترل می\u200Cشود. در حال حاضر هیج کشوری امارت اسلامی افغانستان را به رسمیت نمی\u200Cشناسد."
+  },
+  {
+    "name": "اکوادور",
+    "flag": "\uD83C\uDDEA\uD83C\uDDE8",
+    "introduction": "جمهوری اکوادور",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "الجزایر",
+    "flag": "\uD83C\uDDE9\uD83C\uDDFF",
+    "introduction": "جمهوری دموکراتیک خلق الجزایر",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "السالوادور",
+    "flag": "\uD83C\uDDF8\uD83C\uDDFB",
+    "introduction": "جمهوری السالوادور",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "امارات متحدهٔ عربی",
+    "flag": "\uD83C\uDDE6\uD83C\uDDEA",
+    "introduction": null,
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "امارات متحدهٔ عربی یک فدراسیون متشکل از ۷ امارت است."
+  },
+  {
+    "name": "اندونزی",
+    "flag": "\uD83C\uDDEE\uD83C\uDDE9",
+    "introduction": "جمهوری اندونزی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "اندونزی ۵ استان با وضعیت خودمختاری ویژه رسمی دارد: آچه، جاکارتا، منطقه ویژه یوگیاکارتا، پاپوآ، و پاپوآی غربی."
+  },
+  {
+    "name": "اوکراین",
+    "flag": "\uD83C\uDDFA\uD83C\uDDE6",
+    "introduction": "جمهوری اوکراین",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "اوگاندا",
+    "flag": "\uD83C\uDDFA\uD83C\uDDEC",
+    "introduction": "جمهوری اوگاندا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "ایالات فدرال میکرونزی",
+    "flag": "\uD83C\uDDEB\uD83C\uDDF2",
+    "introduction": null,
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "تحت پیمان اتحادیه آزاد با ایالات متحده. ایالات فدرال میکرونزی یک فدراسیون متشکل از چهار ایالت است."
+  },
+  {
+    "name": "ایالات متحده آمریکا",
+    "flag": "\uD83C\uDDFA\uD83C\uDDF8",
+    "introduction": null,
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": {
+      "ایالات متحدهٔ آمریکا یک فدراسیون متشکل از ۵۰ ایالت، ۱ ناحیهٔ فدرال، و قلمروی جزیره مرجانی پالمیرا است. ایالات متحدهٔ آمریکا بر قلمروهای زیر نیز سلطه دارد:": [
+        "ساموای آمریکا",
+        "گوآم",
+        "جزایر ماریانای شمالی",
+        "پورتوریکو",
+        "جزایر ویرجین ایالات متحده"
+      ],
+      "ایالات متحدهٔ آمریکا بر جزایر بدون سکنهٔ زیر نیز تسلط دارد:": [
+        "بخو نوئوو بنک",
+        "جزیره بیکر",
+        "جزیره هاولند",
+        "جزیره جارویس",
+        "جزیره جانستون",
+        "آب\u200Cسنگ کینگمن",
+        "جزیره مرجانی میدوی",
+        "جزیره ناواسا",
+        "جزیره صخره سرانیلا",
+        "جزیره ویک"
+      ],
+      "سه عضو مستقل تحت پیمان اتحادیه آزاد به اعضای همراه ایالات متحدهٔ آمریکا تبدیل شدند:": [
+        "جزایر مارشال",
+        "ایالات فدرال میکرونزی",
+        "پالائو"
+      ]
+    }
+  },
+  {
+    "name": "ایتالیا",
+    "flag": "\uD83C\uDDEE\uD83C\uDDF9",
+    "introduction": "جمهوری ایتالیا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا. ایتالیا پنج منطقهٔ خودمختار دارد: واله دائوستا، فریولی ونتزیا جولیا، ساردنی، سیسیل و ترنتینو آلتو آدیجه."
+  },
+  {
+    "name": "ایران",
+    "flag": "\uD83C\uDDEE\uD83C\uDDF7",
+    "introduction": "جمهوری اسلامی ایران",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "ایرلند",
+    "flag": "\uD83C\uDDEE\uD83C\uDDEA",
+    "introduction": "جمهوری ایرلند",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا."
+  },
+  {
+    "name": "ایسلند",
+    "flag": "\uD83C\uDDEE\uD83C\uDDF8",
+    "introduction": "جمهوری ایسلند",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "باربادوس",
+    "flag": "\uD83C\uDDE7\uD83C\uDDE7",
+    "introduction": "جمهوری باربادوس",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "باهاما",
+    "flag": "\uD83C\uDDE7\uD83C\uDDF8",
+    "introduction": "قلمرو همسود باهاما",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "باهاما یک قلمروی همسود است."
+  },
+  {
+    "name": "بحرین",
+    "flag": "\uD83C\uDDE7\uD83C\uDDED",
+    "introduction": "پادشاهی بحرین",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "برزیل",
+    "flag": "\uD83C\uDDE7\uD83C\uDDF7",
+    "introduction": "جمهوری فدرال برزیل",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "برزیل یک فدراسیون از ایالت\u200Cها است."
+  },
+  {
+    "name": "برونئی",
+    "flag": "\uD83C\uDDE7\uD83C\uDDF3",
+    "introduction": "برونئی دارالسلام",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "بریتانیا",
+    "flag": "\uD83C\uDDEC\uD83C\uDDE7",
+    "introduction": "پادشاهی متحد بریتانیای کبیر و ایرلند شمالی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": {
+      "پادشاهی متحد یک قلمروی همسود متشکل از کشورهای بریتانیا است: انگلستان، ایرلند شمالی، اسکاتلند، و ولز. پادشاهی متحد همچنین شامل قلمروهای آن\u200Cسوی دریا نیز می\u200Cشود:": [
+        "آکراتاری و داکیلیا",
+        "آنگویلا",
+        "برمودا",
+        "قلمرو اقیانوس هند بریتانیا",
+        "جزایر ویرجین انگلستان",
+        "جزایر کیمن",
+        "جزایر فالکلند",
+        "جبل طارق",
+        "مونتسرات",
+        "جزایر پیت\u200Cکرن",
+        "سینت هلینا",
+        "جورجیای جنوبی و جزایر ساندویچ جنوبی",
+        "جزایر تورکس و کایکوس",
+        "قلمرو بریتانیایی جنوبگان"
+      ],
+      "پادشاه بریتانیا مستقیماً بر موارد زیر حاکمیت دارد:": [
+        "گرنزی",
+        "آلدرنی",
+        "هرم (جزیره)",
+        "سارک",
+        "جزیره من",
+        "جرزی"
+      ]
+    }
+  },
+  {
+    "name": "بلاروس",
+    "flag": "\uD83C\uDDE7\uD83C\uDDFE",
+    "introduction": "جمهوری بلاروس",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "بلژیک",
+    "flag": "\uD83C\uDDE7\uD83C\uDDEA",
+    "introduction": "پادشاهی بلژیک",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا. بلژیک یک فدراسیون است به جوامع و مناطق زبانی تقسیم شده\u200Cاست."
+  },
+  {
+    "name": "بلغارستان",
+    "flag": "\uD83C\uDDE7\uD83C\uDDEC",
+    "introduction": "جمهوری بلغارستان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا."
+  },
+  {
+    "name": "بلیز",
+    "flag": "\uD83C\uDDE7\uD83C\uDDFF",
+    "introduction": "قلمرو همسود بلیز",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "بلیز یک قلمروی همسود است."
+  },
+  {
+    "name": "بنگلادش",
+    "flag": "\uD83C\uDDE7\uD83C\uDDE9",
+    "introduction": "جمهوری خلق بنگلادش",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "بنین",
+    "flag": "\uD83C\uDDE7\uD83C\uDDEF",
+    "introduction": "جمهوری بنین",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "بوتان",
+    "flag": "\uD83C\uDDE7\uD83C\uDDF9",
+    "introduction": "پادشاهی بوتان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "بوتسوانا",
+    "flag": "\uD83C\uDDE7\uD83C\uDDFC",
+    "introduction": "جمهوری بوتسوانا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "بورکینافاسو",
+    "flag": "\uD83C\uDDE7\uD83C\uDDEB",
+    "introduction": "جمهوری بورکینافاسو",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "بوروندی",
+    "flag": "\uD83C\uDDE7\uD83C\uDDEE",
+    "introduction": "جمهوری بوروندی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "بوسنی و هرزگوین",
+    "flag": "\uD83C\uDDE7\uD83C\uDDEE",
+    "introduction": "فدراسیون بوسنی و هرزگوین",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": {
+      "بوسنی و هرزگووین یک فدراسیون با دو واحد تشکیل\u200Cدهنده است:": [
+        "فدراسیون بوسنی و هرزگوین",
+        "جمهوری صرب"
+      ],
+      "0": "و بخش برچکو، یک واحد خودمختار."
+    }
+  },
+  {
+    "name": "بولیوی",
+    "flag": "\uD83C\uDDE7\uD83C\uDDF4",
+    "introduction": "جمهوری بولیوی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "پاپوآ گینهٔ نو",
+    "flag": "\uD83C\uDDF5\uD83C\uDDEC",
+    "introduction": "دولت مستقل پاپوآ گینهٔ نو",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "پاپوآ گینه نو یک قلمروی همسود با ۱ منطقهٔ خودمختار، استان خودمختار بوگاینویل است."
+  },
+  {
+    "name": "پاراگوئه",
+    "flag": "\uD83C\uDDF5\uD83C\uDDFE",
+    "introduction": "جمهوری پاراگوئه",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "پاکستان",
+    "flag": "\uD83C\uDDF5\uD83C\uDDF0",
+    "introduction": "جمهوری اسلامی پاکستان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": {
+      "0": "پاکستان یک فدراسیون ایالتی است. پاکستان مدعی حاکمیت بر کشمیر است. این کشور بر کشمیر آزاد کنترل دارد، اما صراحتاً ادعای هیچ بخشی از آن را ندارد، در عوض آن را به عنوان یک سرزمین مورد مناقشه در نظر می\u200Cگیرد.",
+      "بخش\u200Cهایی که تحت کنترل خود دارد به دو قسمت تقسیم می\u200Cشود که به\u200Cطور جداگانه از پاکستان اداره می\u200Cشوند:": [
+        "کشمیر آزاد",
+        "گلگت-بلتستان"
+      ]
+    }
+  },
+  {
+    "name": "پالائو",
+    "flag": "\uD83C\uDDF5\uD83C\uDDFC",
+    "introduction": "جمهوری پالائو",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "تحت یک پیمان اتحادیه آزاد با ایالات متحدهٔ آمریکا."
+  },
+  {
+    "name": "پاناما",
+    "flag": "\uD83C\uDDF5\uD83C\uDDE6",
+    "introduction": "جمهوری پاناما",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "پرتغال",
+    "flag": "\uD83C\uDDF5\uD83C\uDDF9",
+    "introduction": "جمهوری پرتغال",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا. پرتغال شامل دو منطقهٔ خودمختار است: آزور و مادیرا."
+  },
+  {
+    "name": "پرو",
+    "flag": "\uD83C\uDDF5\uD83C\uDDEA",
+    "introduction": "جمهوری پرو",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "تاجیکستان",
+    "flag": "\uD83C\uDDF9\uD83C\uDDEF",
+    "introduction": "جمهوری تاجیکستان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "تاجیکستان ۱ منطقهٔ خودمختار دارد: ولایت مختار کوهستان بدخشان."
+  },
+  {
+    "name": "تانزانیا",
+    "flag": "\uD83C\uDDF9\uD83C\uDDFF",
+    "introduction": "جمهوری تانزانیا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "تانزانیا ۱ منطقهٔ خودمختار دارد: زنگبار."
+  },
+  {
+    "name": "تایلند",
+    "flag": "\uD83C\uDDF9\uD83C\uDDEC",
+    "introduction": "پادشاهی تایلند",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "ترکمنستان",
+    "flag": "\uD83C\uDDF9\uD83C\uDDF2",
+    "introduction": "جمهوری ترکمنستان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "ترکیه",
+    "flag": "\uD83C\uDDF9\uD83C\uDDF7",
+    "introduction": "جمهوری ترکیه",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "ترینیداد و توباگو",
+    "flag": "\uD83C\uDDF9\uD83C\uDDF9",
+    "introduction": "جمهوری ترینیداد و توباگو",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "ترینیداد و توباگو ۱ منطقهٔ خودمختار دارد: توباگو."
+  },
+  {
+    "name": "تونس",
+    "flag": "\uD83C\uDDF9\uD83C\uDDF3",
+    "introduction": "جمهوری تونس",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "تونگا",
+    "flag": "\uD83C\uDDF9\uD83C\uDDF4",
+    "introduction": "جمهوری تونگا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "تووالو",
+    "flag": "\uD83C\uDDF9\uD83C\uDDFB",
+    "introduction": "قلمرو همسود تووالو",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "تووالو یک قلمروی همسود است."
+  },
+  {
+    "name": "تیمور شرقی",
+    "flag": "\uD83C\uDDF9\uD83C\uDDF1",
+    "introduction": "جمهوری دموکراتیک تیمور شرقی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "جامائیکا",
+    "flag": "\uD83C\uDDEF\uD83C\uDDF2",
+    "introduction": "قلمرو همسود جامائیکا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "جامائیکا یک قلمروی همسود است."
+  },
+  {
+    "name": "جزایر سلیمان",
+    "flag": "\uD83C\uDDF8\uD83C\uDDE7",
+    "introduction": null,
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "جزایر سلیمان یک قلمروی همسود است."
+  },
+  {
+    "name": "جزایر مارشال",
+    "flag": "\uD83C\uDDF2\uD83C\uDDED",
+    "introduction": "جمهوری جزایر مارشال",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "تحت قیمومیت پیمان اتحادیهٔ آزاد به همراه ایالات متحدهٔ آمریکا."
+  },
+  {
+    "name": "جیبوتی",
+    "flag": "\uD83C\uDDE9\uD83C\uDDEF",
+    "introduction": "جمهوری جیبوتی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "چاد",
+    "flag": "\uD83C\uDDF9\uD83C\uDDE9",
+    "introduction": "جمهوری چاد",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "چک",
+    "flag": "\uD83C\uDDE8\uD83C\uDDFF",
+    "introduction": "جمهوری چک",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا."
+  },
+  {
+    "name": "چین",
+    "flag": "\uD83C\uDDE8\uD83C\uDDFF",
+    "introduction": "جمهوری خلق چین",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "توسط ۱۹ کشور به رسمیت شناخته نشده\u200Cاست. ادعا شده توسط تایوان",
+    "description": {
+      "جمهوری خلق چین شامل پنج منطقهٔ خودمختار، گوانگشی، مغولستان داخلی، نینگ\u200Cشیا، سین\u200Cکیانگ و منطقهٔ خودمختار تبت است. افزون بر این، بر مناطق ویژهٔ اداری زیر حاکمیت دارد:": [
+        "هنگ کنگ",
+        "ماکائو"
+      ],
+      "0": "چین توسط ۲۲ کشور عضو و سریر مقدس به رسمیت شناخته نمی\u200Cشود، این کشورها تایوان (جمهوری چین) را به رسمیت می\u200Cشناسند",
+      "1": "چین ادعای حاکمیت بر تایوان را دارد اما آن را کترل نمی\u200Cکند."
+    }
+  },
+  {
+    "name": "دانمارک",
+    "flag": "\uD83C\uDDE9\uD83C\uDDF0",
+    "introduction": "پادشاهی دانمارک",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": {
+      "قلمروی دانمارک همچنین شامل دو منطقهٔ خودگردان زیر است:": [
+        "جزایر فارو (Føroyar/Færøerne)",
+        "گرینلند (Kalaallit Nunaat/Grønland)"
+      ],
+      "0": "عضو اتحادیهٔ اروپا."
+    }
+  },
+  {
+    "name": "دومینیکا",
+    "flag": "\uD83C\uDDE9\uD83C\uDDF2",
+    "introduction": "قلمرو همسود دومینیکا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "دومینیکن",
+    "flag": "\uD83C\uDDE9\uD83C\uDDF4",
+    "introduction": "جمهوری دومینیکن",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "رواندا",
+    "flag": "\uD83C\uDDF7\uD83C\uDDFC",
+    "introduction": "جمهوری رواندا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "روسیه",
+    "flag": "\uD83C\uDDF7\uD83C\uDDFA",
+    "introduction": "فدراسیون روسیه",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "روسیه رسماً یک فدراسیون متشکل از ۸۵ واحد فدرال است."
+  },
+  {
+    "name": "رومانی",
+    "flag": "\uD83C\uDDF7\uD83C\uDDF4",
+    "introduction": "جمهوری رومانی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا."
+  },
+  {
+    "name": "زامبیا",
+    "flag": "\uD83C\uDDFF\uD83C\uDDF2",
+    "introduction": "جمهوری زامبیا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "زیمبابوه",
+    "flag": "\uD83C\uDDFF\uD83C\uDDFC",
+    "introduction": "جمهوری زیمبابوه",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "ژاپن",
+    "flag": "\uD83C\uDDEF\uD83C\uDDF5",
+    "introduction": "پادشاهی ژاپن",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "ساحل عاج",
+    "flag": "\uD83C\uDDE8\uD83C\uDDEE",
+    "introduction": "جمهوری ساحل عاج",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "ساموآ",
+    "flag": "\uD83C\uDDFC\uD83C\uDDF8",
+    "introduction": "دولت مستقل ساموآ",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "سان مارینو",
+    "flag": "\uD83C\uDDF8\uD83C\uDDF2",
+    "introduction": "جمهوری سان مارینو",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "سائوتومه و پرنسیپ",
+    "flag": "\uD83C\uDDF8\uD83C\uDDF9",
+    "introduction": "جمهوری دموکراتیک سائوتومه و پرنسیپ",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "سائوتومه و پرنسیپ شامل یک استان خودمختار است: پرنسیپ."
+  },
+  {
+    "name": "سنت کیتس و نویس",
+    "flag": "\uD83C\uDDF0\uD83C\uDDF3",
+    "introduction": "فدراسیون سنت کیتس و نویس",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "سنت کیتس و نویس یک قلمروی همسود است و یک فدراسیون از ۱۴ فدراسیون."
+  },
+  {
+    "name": "سنت لوسیا",
+    "flag": "\uD83C\uDDF1\uD83C\uDDE8",
+    "introduction": null,
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "سنت لوسیا یک قلمروی همسود است."
+  },
+  {
+    "name": "سنت وینسنت و گرنادین\u200Cها",
+    "flag": "\uD83C\uDDFB\uD83C\uDDE8",
+    "introduction": null,
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "سنت وینسنت و گرنادین\u200Cها یک قلمروی همسود است."
+  },
+  {
+    "name": "سری\u200Cلانکا",
+    "flag": "\uD83C\uDDF1\uD83C\uDDF0",
+    "introduction": "جمهوری دموکراتیک سوسیالیستی سری\u200Cلانکا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "سنگاپور",
+    "flag": "\uD83C\uDDF8\uD83C\uDDEC",
+    "introduction": "جمهوری سنگاپور",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "سنگال",
+    "flag": "\uD83C\uDDF8\uD83C\uDDF3",
+    "introduction": "جمهوری سنگال",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "سودان",
+    "flag": "\uD83C\uDDF8\uD83C\uDDE9",
+    "introduction": "جمهوری سودان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "سودان یک فدراسیون از ایالت\u200Cهای سودان است. ابیی و کافیا کنجی مورد مناقشه با سودان جنوبی است."
+  },
+  {
+    "name": "سودان جنوبی",
+    "flag": "\uD83C\uDDF8\uD83C\uDDF8",
+    "introduction": "جمهوری سودان جنوبی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "سودان جنوبی یک فدراسیون از ایالت\u200Cهای سودان جنوبی است."
+  },
+  {
+    "name": "سورینام",
+    "flag": "\uD83C\uDDF8\uD83C\uDDF7",
+    "introduction": "جمهوری سورینام",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "سورینام",
+    "flag": "\uD83C\uDDF8\uD83C\uDDF7",
+    "introduction": "جمهوری سورینام",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "سوریه",
+    "flag": "\uD83C\uDDF8\uD83C\uDDFE",
+    "introduction": "جمهوری عربی سوریه",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": [
+      "ائتلاف ملی سوریه که توسط ۲۰ عضو سازمان ملل به عنوان نمایندهٔ قانونی مردم سوریه شناخته می\u200Cشود، یک دولت انتقالی برای حکومت بر مناطق تحت کنترل شورشیان در طول جنگ داخلی سوریه ایجاد کرده\u200Cاست.",
+      "سوریه یک منطقهٔ خودمختار خودخوانده دارد: اداره خودمختار شمال و شرق سوریه"
+    ]
+  },
+  {
+    "name": "سومالی",
+    "flag": "\uD83C\uDDF8\uD83C\uDDF4",
+    "introduction": "جمهوری فدرال سومالی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "سومالی یک فدراسیون متشکل از شش ایالت است. دو ایالت پانتلند و گالمودوگ خودمختاری خود را اعلام کرده\u200Cاند، در حالی که اولی تحت عنوان سومالی\u200Cلند به صورت دو فاکتو مستقل شده\u200Cاست."
+  },
+  {
+    "name": "سوئد",
+    "flag": "\uD83C\uDDF8\uD83C\uDDEA",
+    "introduction": "پادشاهی سوئد",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا."
+  },
+  {
+    "name": "سوئیس",
+    "flag": "\uD83C\uDDE8\uD83C\uDDED",
+    "introduction": "کنفدراسیون سوئیس",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "سوئیس یک فدراسیون متشکل از ۲۶ کانتون است."
+  },
+  {
+    "name": "سیرالئون",
+    "flag": "\uD83C\uDDF8\uD83C\uDDF1",
+    "introduction": "جمهوری سیرالئون",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "سیشل",
+    "flag": "\uD83C\uDDF8\uD83C\uDDE8",
+    "introduction": "جمهوری سیشل",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "شیلی",
+    "flag": "\uD83C\uDDE8\uD83C\uDDF1",
+    "introduction": "جمهوری شیلی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "جزیره ایستر و جزایر خوان فرناندز «قلمروهای ویژهٔ» شیلی در منطقه والپارایزو هستند."
+  },
+  {
+    "name": "صربستان",
+    "flag": "\uD83C\uDDF7\uD83C\uDDF8",
+    "introduction": "جمهوری صربستان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "صربستان شامل دو منطقهٔ خودمختار است: منطقه خودمختار وویوودینا و منطقه خودمختار کوزوو و متوهیا. بخش اعظم کوزوو و متوهیابه صورت دو فاکتو در دست جمهوری کوزوو است."
+  },
+  {
+    "name": "عراق",
+    "flag": "\uD83C\uDDEE\uD83C\uDDF6",
+    "introduction": "جمهوری عراق",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عراق یک فدراسیون است سه استان از استان\u200Cهای عراق، منطقهٔ خودمختار کردستان عراق را شکل می\u200Cدهند."
+  },
+  {
+    "name": "عربستان سعودی",
+    "flag": "\uD83C\uDDF8\uD83C\uDDE6",
+    "introduction": "پادشاهی عربستان سعودی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "عمان",
+    "flag": "\uD83C\uDDF4\uD83C\uDDF2",
+    "introduction": "پادشاهی عمان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "غنا",
+    "flag": "\uD83C\uDDEC\uD83C\uDDED",
+    "introduction": "جمهوری غنا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "فرانسه",
+    "flag": "\uD83C\uDDEB\uD83C\uDDF7",
+    "introduction": "جمهوری فرانسه",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": {
+      "0": "عضو اتحادیهٔ اروپا.",
+      "فرانسه شامل پنج ناحیهٔ فرادریایی است: گویان فرانسه، جزیره گوادلوپ، مارتینیک، مایوت، و رئونیون. فرانسه همچنین شامل قلمروهای وابستهٔ زیر است:": [
+        "جزیره کلیپرتون",
+        "پلی\u200Cنزی فرانسه",
+        "کالدونیای جدید",
+        "سن بارتلمی",
+        "سن-مارتن",
+        "سن-پیر-ا-میکلون",
+        "والیس و فوتونا",
+        "سرزمین\u200Cهای جنوبی و جنوبگانی فرانسه"
+      ]
+    }
+  },
+  {
+    "name": "فلسطین",
+    "flag": "\uD83C\uDDEB\uD83C\uDDF7",
+    "introduction": "دولت خودگردان فلسطین",
+    "united_nations": "کشور ناظر و کشور عضو یک سازمان تخصصی",
+    "dispute_about_independence": "توسط اسرائیل و ۵۶ کشور تا کنون به رسمیت شناخته نمی\u200Cشود.",
+    "description": "دولت اعلام\u200Cشدهٔ فلسطین توسط ۱۳۴ کشور به رسمیت شناخته شده\u200Cاست. دولت اعلام\u200Cشده هیچ مرز سرزمینی توافق\u200Cشده، یا کنترل مؤثری بر بسیاری از سرزمین\u200Cهابی که اعلام کرده، ندارد. حکومت خودگردان فلسطین یک نهاد اداری موقت است که در نتیجهٔ پیمان\u200Cهای اسلو تشکیل شده که صلاحیت قضایی خودمختار محدودی را در سرزمین\u200Cهای فلسطینی\u200Cنشین اعمال می\u200Cکند. در روابط خارجی، فلسطین توسط سازمان آزادی\u200Cبخش فلسطین نمایندگی می\u200Cشود. دولت فلسطین یکی از کشورهای عضو یونسکو، و یک کشور ناظر در سازمان ملل متحد است."
+  },
+  {
+    "name": "فنلاند",
+    "flag": "\uD83C\uDDEB\uD83C\uDDEE",
+    "introduction": "جمهوری فنلاند",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": [
+      "عضو اتحادیهٔ اروپا.",
+      "جزایر آلند یک منطقه خودمختار بی\u200Cطرف و غیرنظامی فنلاند است."
+    ]
+  },
+  {
+    "name": "فیجی",
+    "flag": "\uD83C\uDDEB\uD83C\uDDEF",
+    "introduction": "جمهوری فیجی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "فیجی شامل ۱ منطقهٔ خودمختار، روتوما."
+  },
+  {
+    "name": "فیلیپین",
+    "flag": "\uD83C\uDDF5\uD83C\uDDED",
+    "introduction": "جمهوری فیلیپین",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "فیلیپین شامل یک منطقهٔ خودمختار است: ناحیه خودمختار مسلمانان میندانائو."
+  },
+  {
+    "name": "قبرس",
+    "flag": "\uD83C\uDDE8\uD83C\uDDFE",
+    "introduction": "جمهوری قبرس",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "توسط ترکیه و قبرس شمالی به رسمیت شناخته نمی\u200Cشود",
+    "description": "عضو اتحادیهٔ اروپا. در واقع بخش شمال شرقی جزیره به صورت دو فاکتو در دست قبرس شمالی است."
+  },
+  {
+    "name": "قرقیزستان",
+    "flag": "\uD83C\uDDF0\uD83C\uDDEC",
+    "introduction": "جمهوری قرقیزستان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "قزاقستان",
+    "flag": "\uD83C\uDDF0\uD83C\uDDFF",
+    "introduction": "جمهوری قزاقستان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "قطر",
+    "flag": "\uD83C\uDDF6\uD83C\uDDE6",
+    "introduction": "پادشاهی قطر",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "اتحاد قمر",
+    "flag": "\uD83C\uDDF0\uD83C\uDDF2",
+    "introduction": "اتحادیه مجمع الجزایر کومور",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "کومور یک فدراسیون از ۳ جزیره است."
+  },
+  {
+    "name": "کاستاریکا",
+    "flag": "\uD83C\uDDE8\uD83C\uDDF7",
+    "introduction": "جمهوری کاستاریکا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "کامبوج",
+    "flag": "\uD83C\uDDF0\uD83C\uDDED",
+    "introduction": "پادشاهی کامبوج",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "کامرون",
+    "flag": "\uD83C\uDDE8\uD83C\uDDF2",
+    "introduction": "جمهوری کامرون",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "کانادا",
+    "flag": "\uD83C\uDDE8\uD83C\uDDE6",
+    "introduction": "قلمرو همسود کانادا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "کانادا یک قلمروی همسود و یک فدراسیون از استان\u200Cها و قلمروها است."
+  },
+  {
+    "name": "کرواسی",
+    "flag": "\uD83C\uDDED\uD83C\uDDF7",
+    "introduction": "جمهوری کرواسی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا."
+  },
+  {
+    "name": "کرهٔ جنوبی",
+    "flag": "\uD83C\uDDF0\uD83C\uDDF7",
+    "introduction": "جمهوری کرهٔ جنوبی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "توسط کره شمالی به رسمیت شناخته نمی\u200Cشود",
+    "description": "کره جنوبی شامل ۱ منطقهٔ خودمختار، ججو-دو است. کرهٔ جنوبی توسط یکی از اعضای سازمان ملل به رسمیت شناخته نشده\u200Cاست: کرهٔ شمالی."
+  },
+  {
+    "name": "کرهٔ شمالی",
+    "flag": "\uD83C\uDDF0\uD83C\uDDF5",
+    "introduction": "جمهوری دموکراتیک خلق کره",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "توسط ژاپن و کره جنوبی به رسمیت شناخته نمی\u200Cشود",
+    "description": "کره شمالی توسط دو عضو سازمان ملل: ژاپن و کره جنوبی به رسمیت شناخته نشده\u200Cاست."
+  },
+  {
+    "name": "کلمبیا",
+    "flag": "\uD83C\uDDE8\uD83C\uDDF4",
+    "introduction": "جمهوری کلمبیا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "کنگو",
+    "flag": "\uD83C\uDDE8\uD83C\uDDE9",
+    "introduction": "جمهوری دموکراتیک کنگو",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "کنگو",
+    "flag": "\uD83C\uDDE8\uD83C\uDDEC",
+    "introduction": "جمهوری کنگو",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "کنیا",
+    "flag": "\uD83C\uDDF0\uD83C\uDDEA",
+    "introduction": "جمهوری کنیا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "کوبا",
+    "flag": "\uD83C\uDDE8\uD83C\uDDFA",
+    "introduction": "جمهوری کوبا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "کویت",
+    "flag": "\uD83C\uDDF0\uD83C\uDDFC",
+    "introduction": "پادشاهی کویت",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "کیریباتی",
+    "flag": "\uD83C\uDDF0\uD83C\uDDEE",
+    "introduction": "جمهوری کیریباتی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "گابن",
+    "flag": "\uD83C\uDDEC\uD83C\uDDE6",
+    "introduction": "جمهوری گابن",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "گامبیا",
+    "flag": "\uD83C\uDDEC\uD83C\uDDF2",
+    "introduction": "جمهوری گامبیا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "گرجستان",
+    "flag": "\uD83C\uDDEC\uD83C\uDDEA",
+    "introduction": "جمهوری گرجستان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "گرجستان شامل دو ناحیهٔ خودمختار آجارستان و آبخاز است. آبخاز و اوستیای جنوبی به صورت دو فاکتو مستقل\u200Cاند."
+  },
+  {
+    "name": "گرنادا",
+    "flag": "\uD83C\uDDEC\uD83C\uDDE9",
+    "introduction": "قلمرو همسود گرنادا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "گرنادا یک قلمروی همسود است."
+  },
+  {
+    "name": "گواتمالا",
+    "flag": "\uD83C\uDDEC\uD83C\uDDF9",
+    "introduction": "جمهوری گواتمالا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "گینه",
+    "flag": "\uD83C\uDDEC\uD83C\uDDF3",
+    "introduction": "جمهوری گینه",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "گینه بیسائو",
+    "flag": "\uD83C\uDDEC\uD83C\uDDFC",
+    "introduction": "جمهوری گینه بیسائو",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "گویان",
+    "flag": "\uD83C\uDDEC\uD83C\uDDFE",
+    "introduction": "جمهوری تعاونی گویان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "لائوس",
+    "flag": "\uD83C\uDDF1\uD83C\uDDE6",
+    "introduction": "جمهوری دموکراتیک خلق لائوس",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "لبنان",
+    "flag": "\uD83C\uDDF1\uD83C\uDDE7",
+    "introduction": "جمهوری لبنان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "لتونی",
+    "flag": "\uD83C\uDDF1\uD83C\uDDFB",
+    "introduction": "جمهوری لتونی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا."
+  },
+  {
+    "name": "لسوتو",
+    "flag": "\uD83C\uDDF1\uD83C\uDDF8",
+    "introduction": "پادشاهی لسوتو",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "لوکزامبورگ",
+    "flag": "\uD83C\uDDF1\uD83C\uDDFA",
+    "introduction": "شاهزاده\u200Cنشین لوکزامبورگ",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا."
+  },
+  {
+    "name": "لهستان",
+    "flag": "\uD83C\uDDF5\uD83C\uDDF1",
+    "introduction": "جمهوری لهستان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا."
+  },
+  {
+    "name": "لیبریا",
+    "flag": "\uD83C\uDDF1\uD83C\uDDF7",
+    "introduction": "جمهوری لیبریا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "لیبی",
+    "flag": "\uD83C\uDDF1\uD83C\uDDFE",
+    "introduction": "دولت لیبی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "لیتوانی",
+    "flag": "\uD83C\uDDF1\uD83C\uDDF9",
+    "introduction": "جمهوری لیتوانی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا."
+  },
+  {
+    "name": "لیختن\u200Cاشتاین",
+    "flag": "\uD83C\uDDF1\uD83C\uDDEE",
+    "introduction": "شاهزاده\u200Cنشین لیختن\u200Cاشتاین",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "ماداگاسکار",
+    "flag": "\uD83C\uDDF2\uD83C\uDDEC",
+    "introduction": "جمهوری ماداگاسکار",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "مالاوی",
+    "flag": "\uD83C\uDDF2\uD83C\uDDFC",
+    "introduction": "جمهوری مالاوی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "مالت",
+    "flag": "\uD83C\uDDF2\uD83C\uDDF9",
+    "introduction": "جمهوری مالت",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا."
+  },
+  {
+    "name": "مالدیو",
+    "flag": "\uD83C\uDDF2\uD83C\uDDFB",
+    "introduction": "جمهوری مالدیو",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "مالزی",
+    "flag": "\uD83C\uDDF2\uD83C\uDDFE",
+    "introduction": "پادشاهی مالزی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "مالزی یک فدراسیون از ایالت\u200Cها و قلمروهای فدرالی مالزی است."
+  },
+  {
+    "name": "مالی",
+    "flag": "\uD83C\uDDF2\uD83C\uDDF1",
+    "introduction": "جمهوری مالی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "مجارستان",
+    "flag": "\uD83C\uDDED\uD83C\uDDFA",
+    "introduction": "جمهوری مجارستان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا."
+  },
+  {
+    "name": "مراکش",
+    "flag": "\uD83C\uDDF2\uD83C\uDDE6",
+    "introduction": "پادشاهی مراکش",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "مراکش مدعی حاکمیت بر صحرای غربی است و بیشتر آن را کنترل می\u200Cکند که مورد مناقشهٔ جمهوری دموکراتیک عربی صحرا است."
+  },
+  {
+    "name": "مصر",
+    "flag": "\uD83C\uDDEA\uD83C\uDDEC",
+    "introduction": "جمهوری عربی مصر",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "مغولستان",
+    "flag": "\uD83C\uDDF2\uD83C\uDDF3",
+    "introduction": "جمهوری مغولستان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "مقدونیهٔ شمالی",
+    "flag": "\uD83C\uDDF2\uD83C\uDDF0",
+    "introduction": "جمهوری مقدونیهٔ شمالی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "مکزیک",
+    "flag": "\uD83C\uDDF2\uD83C\uDDFD",
+    "introduction": "ایالات متحده مکزیک",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "مکزیک یک فدراسیون ایالتی است."
+  },
+  {
+    "name": "موریتانی",
+    "flag": "\uD83C\uDDF2\uD83C\uDDF7",
+    "introduction": "جمهوری اسلامی موریتانی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "موریس",
+    "flag": "\uD83C\uDDF2\uD83C\uDDFA",
+    "introduction": "جمهوری موریس",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "موریس یک جزیرهٔ خودگردان به نام جزیره رودریگز دارد."
+  },
+  {
+    "name": "موزامبیک",
+    "flag": "\uD83C\uDDF2\uD83C\uDDFF",
+    "introduction": "جمهوری موزامبیک",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "مولدووا",
+    "flag": "\uD83C\uDDF2\uD83C\uDDE9",
+    "introduction": "جمهوری مولدووی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "مولداوی دارای مناطق خودمختار گاگائوزیا و ترانس\u200Cنیستریا است که در دومی یک دولت واقعی ایجاد شده\u200Cاست."
+  },
+  {
+    "name": "موناکو",
+    "flag": "\uD83C\uDDF2\uD83C\uDDE8",
+    "introduction": "شاهزاده\u200Cنشین موناکو",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "مونته\u200Cنگرو",
+    "flag": "\uD83C\uDDF2\uD83C\uDDEA",
+    "introduction": "جمهوری مونته\u200Cنگرو",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "میانمار",
+    "flag": "\uD83C\uDDF2\uD83C\uDDF2",
+    "introduction": "جمهوری اتحادیهٔ میانمار",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "نامیبیا",
+    "flag": "\uD83C\uDDF3\uD83C\uDDE6",
+    "introduction": "جمهوری نامیبیا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "نائورو",
+    "flag": "\uD83C\uDDF3\uD83C\uDDF7",
+    "introduction": "جمهوری نائورو",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "نپال",
+    "flag": "\uD83C\uDDF3\uD83C\uDDF5",
+    "introduction": "جمهوری فدرال دموکراتیک نپال",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "نپال یک فدراسیون متشکل از استان\u200Cهاست."
+  },
+  {
+    "name": "نروژ",
+    "flag": "\uD83C\uDDF3\uD83C\uDDF4",
+    "introduction": "پادشاهی نروژ",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": {
+      "0": "سوالبارد یک بخش جدایی\u200Cناپذیر نروژ است، لیکن بنا بر پیمان سوالبارد یک وضعیت ویژه دارد.",
+      "1": "یان ماین یک جزیرهٔ جدایی\u200Cناپذیر از نروژ است، اگرچه محدوده\u200Cای ثبت\u200Cنشده است.",
+      "نروژ قلمروهای وابسته\u200Cای دارد:": [
+        "جزیره بووه",
+        "جزیره پتر یکم",
+        "سرزمین شهبانو ماود"
+      ]
+    }
+  },
+  {
+    "name": "نیجر",
+    "flag": "\uD83C\uDDF3\uD83C\uDDEA",
+    "introduction": "جمهوری نیجر",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "نیجریه",
+    "flag": "\uD83C\uDDF3\uD83C\uDDEC",
+    "introduction": "جمهوری فدرال نیجریه",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "نیجریه یک فدراسیون از ایالت\u200Cهای نیجریه است."
+  },
+  {
+    "name": "نیکاراگوئه",
+    "flag": "\uD83C\uDDF3\uD83C\uDDEE",
+    "introduction": "جمهوری نیکاراگوئه",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "نیکاراگوئه شامل دو منطقهٔ خودمختار است: ناحیه خودمختار ساحل کارائیب جنوبی و ناحیه خودمختار ساحل کارائیب شمالی."
+  },
+  {
+    "name": "نیوزیلند",
+    "flag": "\uD83C\uDDF3\uD83C\uDDFF",
+    "introduction": "قلمرو همسود نیوزیلند",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": {
+      "نیوزیلند یک قلمروی همسود است،[ت ۶] و دارای قلمروهای وابسته است:": [
+        "قلمرو وابسته راس",
+        "توکلائو"
+      ],
+      "نیوزلند نسبت به دو عضو همراه زیر مسئولیت دارد، اما هیچ حقی برای کنترل بر آن\u200Cها ندارد:": [
+        "جزایر کوک",
+        "نیووی"
+      ],
+      "0": "جزایر کوک و نیووی به ترتیب با ۳۹ و ۸۸ عضو سازمان ملل روابط دیپلماتیک دارند. آنها دارای ظرفیت کامل پیمان\u200Cسازی در سازمان ملل هستند، و در برخی از سازمان\u200Cهای تخصصی سازمان ملل متحد عضویت دارند"
+    }
+  },
+  {
+    "name": "واتیکان",
+    "flag": "\uD83C\uDDFB\uD83C\uDDE6",
+    "introduction": "دولت شهر واتیکان",
+    "united_nations": "عضو ناظر و کشور عضو سه سازمان تخصصی",
+    "dispute_about_independence": "ندارد",
+    "description": "تحت مدیریت سریر مقدس، یک نهاد مستقل با روابط دیپلماتیک با ۱۸۳ کشور.این رقم شامل ۱۸۰ کشور عضو سازمان ملل، جزایر کوک، جمهوری چین (تایوان) و دولت فلسطین است. علاوه بر این، اتحادیهٔ اروپا و جمهوری مالت روابط دیپلماتیک خود را با سریر مقدس حفظ می\u200Cکنند. سریر مقدس عضو آژانس بین\u200Cالمللی انرژی اتمی، اتحادیه بین\u200Cالمللی مخابرات، اتحادیه جهانی پست، و سازمان جهانی مالکیت فکری و ناظر دائمی سازمان ملل و چندین سازمان دیگر سیستم سازمان ملل متحد است. شهر واتیکان توسط مقامات منصوب\u200Cشدهٔ پاپ که اسقف رم و حاکم بر واتیکان است اداره می\u200Cشود."
+  },
+  {
+    "name": "وانواتو",
+    "flag": "\uD83C\uDDFB\uD83C\uDDFA",
+    "introduction": "جمهوری وانواتو",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "ونزوئلا",
+    "flag": "\uD83C\uDDFB\uD83C\uDDEA",
+    "introduction": "جمهوری بولیواری ونزوئلا",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "ونزوئلا یک فدراسیون از ایالت\u200Cهای ونزوئلا است."
+  },
+  {
+    "name": "ویتنام",
+    "flag": "\uD83C\uDDFB\uD83C\uDDF3",
+    "introduction": "جمهوری سوسیالیستی ویتنام",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "هائیتی",
+    "flag": "\uD83C\uDDED\uD83C\uDDF9",
+    "introduction": "جمهوری هائیتی",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "هلند",
+    "flag": "\uD83C\uDDF3\uD83C\uDDF1",
+    "introduction": null,
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": {
+      "عضو اتحادیهٔ اروپا. پادشاهی هلند شامل چهار کشور می\u200Cشود:": [
+        "هلند",
+        "آروبا",
+        "کوراسائو",
+        "سنت مارتین"
+      ],
+      "0": "پادشاه و وزرای او دولت پادشاهی و همچنین دولت کشور سازندهٔ آن، هلند را تشکیل می\u200Cدهند. پس از انحلال آنتیل هلند در سال ۲۰۱۰، کوراسائو و سینت مارتن به کشورهایی تبدیل شدند که در کنار آروبا از خودمختاری قابل توجهی برخوردار هستند. سه جزیرهٔ دیگر (بونیر، سیبا، سینت یوستیشس) به جزایر کارائیب هلند تبدیل شدند.",
+      "1": "نام «هلند» می\u200Cتواند به یکی از کشورهای تشکیل\u200Cدهندهٔ پادشاهی یا به نام کوتاه پادشاهی (به عنوان مثال در سازمان\u200Cهای بین\u200Cالمللی) اشاره داشته باشد. پادشاهی هلند به عنوان یک کل عضو اتحادیهٔ اروپا است، اما قوانین اتحادیهٔ اروپا فقط برای بخش\u200Cهای اروپایی اعمال می\u200Cشود."
+    }
+  },
+  {
+    "name": "هند",
+    "flag": "\uD83C\uDDEE\uD83C\uDDF3",
+    "introduction": "جمهوری فدرال هند",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "هند یک فدراسیون از ایالت\u200Cها و قلمروها است."
+  },
+  {
+    "name": "هندوراس",
+    "flag": "\uD83C\uDDED\uD83C\uDDF3",
+    "introduction": "جمهوری هندوراس",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "هندوراس",
+    "flag": "\uD83C\uDDED\uD83C\uDDF3",
+    "introduction": "جمهوری هندوراس",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "یونان",
+    "flag": "\uD83C\uDDEC\uD83C\uDDF7",
+    "introduction": "جمهوری یونان",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": "عضو اتحادیهٔ اروپا. کوه آتوس بخش خودمختاری از یونان است که به\u200Cطور مشترک توسط «جامعهٔ مقدس» چند ملیتی در کوه و یک فرماندار مدنی منصوب\u200Cشده توسط دولت یونان اداره می\u200Cشود."
+  },
+  {
+    "name": "یمن",
+    "flag": "\uD83C\uDDFE\uD83C\uDDEA",
+    "introduction": "جمهوری یمن",
+    "united_nations": "کشور عضو",
+    "dispute_about_independence": "ندارد",
+    "description": null
+  },
+  {
+    "name": "آبخاز",
+    "flag": null,
+    "introduction": "جمهوری آبخاز",
+    "united_nations": "غیر عضو",
+    "dispute_about_independence": "توسط گرجستان به رسمیت شناخته نمی\u200Cشود",
+    "description": "توسط روسیه، نائورو، نیکاراگوئه، سوریه، ونزوئلا، آرتساخ، اوستیای جنوبی و ترانس\u200Cنیستریا به رسمیت شناخته شده\u200Cاست. گرجستان ادعای تمامی این سرزمین تحت عنوان جمهوری خودمختار آبخاز را دارد."
+  },
+  {
+    "name": "آرتساخ",
+    "flag": null,
+    "introduction": "جمهوری آرتساخ",
+    "united_nations": "غیر عضو",
+    "dispute_about_independence": "توسط جمهوری آذربایجان به رسمیت شناخته نمی\u200Cشود",
+    "description": "یک کشور مستقل دو فاکتو، که فقط توسط آبخاز، اوستیای جنوبی و ترانس\u200Cنیستریا به رسمیت شناخته شده\u200Cاست.\nجمهوری آذربایجان ادعای همهٔ آن را دارد."
+  },
+  {
+    "name": "اوستیای جنوبی",
+    "flag": null,
+    "introduction": "جمهوری اوستیای جنوبی",
+    "united_nations": "غیر عضو",
+    "dispute_about_independence": "توسط گرجستان به رسمیت شناخته نمی\u200Cشود",
+    "description": "یک کشور مستقل دو فاکتو، توسط روسیه، نیکاراگوئه، نائورو، ونزوئلا، آبخاز، آرتساخ، و ترانس\u200Cنیستریا به رسمیت شناخته شده\u200Cاست. گرجستان ادعای تمامی این سرزمین را دارد."
+  },
+  {
+    "name": "ترانس\u200Cنیستریا",
+    "flag": null,
+    "introduction": "جمهوری پردنیسترویایی مولداویایی",
+    "united_nations": "غیر عضو",
+    "dispute_about_independence": "توسط مولداوی به رسمیت شناخته نمی\u200Cشود",
+    "description": "یک کشور مستقل دو فاکتو، که توسط آبخاز، آرتساخ، و اوستیای جنوبی به رسمیت شناخته می\u200Cشود. مولداوی ادعای مالکیت بر ان را دارد."
+  },
+  {
+    "name": "تایوان",
+    "flag": "\uD83C\uDDF9\uD83C\uDDFC",
+    "introduction": "جمهوری چین",
+    "united_nations": "چین و سازمان ملل متحد (تحت عنوان جمهوری چین، ۱۹۴۵–۱۹۷۱) عضو ناضر در یک سازمان تخصصی سازمان ملل متحد تحت نام «چین تایپه»",
+    "dispute_about_independence": "توسط جمهوری خلق چین به رسمیت شناخته نمی\u200Cشود",
+    "description": "دولتی که (به\u200Cطور اسمی) برای به رسمیت شناخته\u200Cشدن با جمهوری خلق چین به عنوان دولت چین از سال ۱۹۴۹ رقابت می\u200Cکند. جمهوری چین جزیرهٔ تایوان و جزایر مرتبط مانند کینمن، ماتسو، پراتاس و بخش\u200Cهایی از جزایر اسپراتلی را کنترل می\u200Cکند و در مورد سرزمین\u200Cهای ضمیمه\u200Cشده در سرزمین اصلی ادعا دارد. جمهوری چین توسط ۱۳ کشور عضو سازمان ملل به رسمیت شناخته شده\u200Cاست، که هیچ\u200Cکدام جمهوری خلق چین را به رسمیت نمی\u200Cشناسند. علاوه بر این، یک عضو سازمان ملل (بوتان) از به رسمیت شناختن هر یک از آن\u200Cها خودداری کرده\u200Cاست.\nجمهوری خلق چین ادعای مالکیت بر جمهوری چین را دارد. جمهوری چین با نام\u200Cهای مستعار مختلف در سازمان\u200Cهای بین\u200Cالمللی شرکت می\u200Cکند، معمولاً «چین تایپه»؛ و در سازمان تجارت جهانی دارای عضویت کامل است. جمهوری چین یکی از اعضای مؤسس سازمان ملل بود و از سال ۱۹۴۵ تا ۱۹۷۱ با حق وتو در شورای امنیت سازمان ملل متحد از عضویت برخوردار بود. اطلاعات بیش\u200Cتر را در چین و سازمان ملل متحد ببینید."
+  },
+  {
+    "name": "سومالی\u200Cلند",
+    "flag": null,
+    "introduction": "جمهوری سومالی\u200Cلند",
+    "united_nations": "غیر عضو",
+    "dispute_about_independence": "توسط هیچ کشوری به رسمیت شناخته نمی\u200Cشود",
+    "description": "یک کشور مستقل دو فاکتو، که از نظر دیپلماتیک توسط هیچ کشور دیگری به رسمیت شناخته نشده\u200Cاست."
+  },
+  {
+    "name": "جمهوری دموکراتیک عربی صحرا",
+    "flag": null,
+    "introduction": null,
+    "united_nations": "غیر عضو",
+    "dispute_about_independence": "توسط مراکش به رسمیت شناخته نمی\u200Cشود",
+    "description": "در مرحله\u200Cای توسط ۸۴ کشور عضو سازمان ملل به رسمیت شناخته شد که ۳۹ کشور از آن زمان به رسمیت شناختن خود را پس گرفته یا متوقف کرده\u200Cاند. این کشور یکی از اعضای بنیانگذار اتحادیه آفریقا و همکاری استراتژیک آسیایی آفریقایی است که در کنفرانس باندونگ در سال ۲۰۰۵ شکل گرفت. سرزمین\u200Cهای تحت کنترل آن، به اصطلاح منطقهٔ آزاد، به\u200Cطور کامل توسط مراکش به عنوان بخشی از استان\u200Cهای جنوبی آن ادعا می\u200Cشود. به نوبهٔ خود، جمهوری دموکراتیک عربی صحرا مدعی بخشی از صحرای غربی در غرب دیوار مراکش است که تحت کنترل مراکش است. دولت آن در تبعید است و در تندوف الجزایر اقامت دارد."
+  },
+  {
+    "name": "قبرس شمالی",
+    "flag": null,
+    "introduction": "جمهوری ترک قبرس شمالی",
+    "united_nations": "غیر عضو",
+    "dispute_about_independence": "توسط قبرس به رسمیت شناخته نمی\u200Cشود",
+    "description": "فقط توسط ترکیه به رسمیت شناخته شده\u200Cاست. این کشور تحت نام «دولت ترک قبرس» عضو ناظر سازمان همکاری اسلامی و سازمان همکاری اقتصادی است."
+  },
+  {
+    "name": "کوزوو",
+    "flag": "\uD83C\uDDFD\uD83C\uDDF0",
+    "introduction": "جمهوری کوزوو",
+    "united_nations": "عضو دو سازمان تخصصی سازمان ملل متحد",
+    "dispute_about_independence": "توسط صربستان به رسمیت شناخته نمی\u200Cشود",
+    "description": "پیرو قطعنامه ۱۲۴۴ شورای امنیت، کوزوو در سال ۱۹۹۹ تحت مدیریت موقت سازمان ملل متحد قرار گرفت. صربستان به ادعای حاکمیت خود بر کوزوو ادامه می\u200Cدهد. سایر کشورهای عضو سازمان ملل متحد و کشورهای غیرعضو سازمان ملل همچنان حاکمیت صربستان را به رسمیت می\u200Cشناسند یا هیچ موضعی در این مورد اتخاذ نکرده\u200Cاند. کوزوو یکی از اعضای صندوق بین\u200Cالمللی پول و گروه بانک جهانی است."
+  },
+  {
+    "name": "جزایر کوک",
+    "flag": "\uD83C\uDDE8\uD83C\uDDF0",
+    "introduction": null,
+    "united_nations": "عضو هشت سازمان تخصصی سازمان ملل متحد",
+    "dispute_about_independence": "ندارد",
+    "description": "جزایر کوک عضو همراه با نیوزیلند است که با ۵۲ دولت روابط دیپلماتیک دارد. این کشور عضو سازمان\u200Cهای تخصصی سازمان ملل متحد است."
+  },
+  {
+    "name": "نیووی",
+    "flag": "\uD83C\uDDF3\uD83C\uDDFA",
+    "introduction": null,
+    "united_nations": "عضو پنج سازمان تخصصی سازمان ملل متحد",
+    "dispute_about_independence": "ندارد",
+    "description": "نیووی عضو همراه با نیوزیلند است که با ۲۰ دولت روابط دیپلماتیک دارد. این کشور عضو سازمان\u200Cهای تخصصی سازمان ملل متحد است."
+  }
+]
